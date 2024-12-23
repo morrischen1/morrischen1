@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Express, React, Kotlin**
 
-- 📝 Planned projects **Binance Futures Trading Simulator, Binance Trading Bot, Crypto Payment Gateway via Binance (maybe)**
+- 📝 Planned projects **Binance Futures Trading Simulator, Crypto Payment Gateway via Binance (maybe)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
