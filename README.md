@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">2nd year CSE student at LTH</h3>
 
-- 🔭 I’m currently working on [FoodBuddy](https://github.com/morrischen1/FoodBuddy)
+- 🔭 I’m currently working on [FoodAssistant](https://github.com/morrischen1/FoodAssistant)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, React, Kotlin, Android**
 
